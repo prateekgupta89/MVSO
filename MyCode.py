@@ -5,11 +5,11 @@ from boto.mturk.layoutparam import LayoutParameter
 from boto.mturk.layoutparam import LayoutParameters
 import csv, random, flickrapi
 
-api_key = 'ac0d3cf61f420ccc89928aa654241771'
-api_password = '89b53de03059da8e'
+api_key = ''
+api_password = ''
 
-ACCESS_ID ='AKIAJAR2Y4GOFK2QAABQ'
-SECRET_KEY = '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'
+ACCESS_ID =''
+SECRET_KEY = ''
 HOST = 'mechanicalturk.sandbox.amazonaws.com'
 
 if __name__ == '__main__':
